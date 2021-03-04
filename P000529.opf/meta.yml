@@ -1,28 +1,31 @@
-id: opecha:P000529
+id: P000529
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15383
   title: བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་ཁྲིད་ཆེན་བརྒྱད་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པ།
-  volume:
+  author: ''
+  volumes:
     4fae11419cdb45a8af6235a703d37577:
       image_group_id: I1KG15395
       title: Volume 1 of byang chub lam gyi rim pa'i khrid chen brgyad phyogs gcig
         tu bsgrigs pa/
       volume_number: 1
       total_pages: 852
+      base_file: v001.txt
     ccda9745857d470c868ff2422f7eb373:
       image_group_id: I1KG15396
       title: Volume 2 of byang chub lam gyi rim pa'i khrid chen brgyad phyogs gcig
         tu bsgrigs pa/
       volume_number: 2
       total_pages: 360
+      base_file: v002.txt
     9dc7cfd51c0247f7a3ef395a138af00e:
       image_group_id: I1KG15397
       title: Volume 3 of byang chub lam gyi rim pa'i khrid chen brgyad phyogs gcig
         tu bsgrigs pa/
       volume_number: 3
       total_pages: 464
-  author: ''
+      base_file: v003.txt
 ebook_metadata:
   title: བྱང་ཆུབ་ལམ་གྱི་རིམ་པའི་ཁྲིད་ཆེན་བརྒྱད་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པ།
   author: ''
